@@ -47,7 +47,7 @@ const PlayerForm = ({ players, setPlayers }) => {
 
     return (
     <div>
-        <h2>Ajouter des Joueurs</h2>
+        <h2>Ajouter des Joueurs !</h2>
         <input
         type="text"
         value={playerName}

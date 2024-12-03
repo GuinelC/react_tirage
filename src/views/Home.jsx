@@ -7,7 +7,7 @@ const Home = () => {
 
   return (
     <div className="home">
-      <h1>Bienvenue dans l'application de tirage au sort</h1>
+      <h1>Bienvenue dans l'application de tirage au sort !</h1>
       <button onClick={() => navigate("/form")} className="start-button">
         Commencer
       </button>
