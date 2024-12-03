@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('/public/images/vecteezy_christmas.jpg'); /* Assurez-vous que le chemin est correct */
+  background-size: cover; /* Cette propriété permet à l'image de couvrir tout l'arrière-plan */
+  background-position: center; /* Centrer l'image */
+  background-repeat: no-repeat; /* Éviter que l'image se répète */
+  height: 100vh; /* Pour s'assurer que l'image couvre toute la hauteur de l'écran */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
